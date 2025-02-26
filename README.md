@@ -6,7 +6,7 @@ This repository contains the coursework for the module RILE92 SP IV-2: Reinforce
 1. **Clone the Repository**
 
     ```bash
-    git clone git@github.com:juliisch/RILE92.git
+    git clone https://github.com/juliisch/RILE92.git
     cd RILE92
     ```
 
