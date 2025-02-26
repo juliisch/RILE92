@@ -1,0 +1,6 @@
+gym
+IPython
+matplotlib
+numpy
+torch
+torchvision
