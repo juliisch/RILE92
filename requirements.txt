@@ -3,4 +3,3 @@ IPython
 matplotlib
 numpy
 torch
-torchvision
