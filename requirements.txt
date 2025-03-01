@@ -2,4 +2,5 @@ gym==0.26.2
 IPython==8.21.0
 matplotlib==3.8.3
 numpy==1.26.4
-torch==2.6.0s
+torch==2.6.0
+jupyter
