@@ -1,9 +1,9 @@
 # RILE92
-This repository contains the coursework for the module RILE92 SP IV-2: Reinforcement Learning.
+Dieses Repository enthält die Code-Teil der Studienarbeit für das Modul RILE92 SP IV-2: Reinforcement Learning.
 
 ### Installation
 
-1. **Clone the Repository and change directory**
+1. **Klonen Sie das Repository und wechseln Sie das Verzeichnis**
 
     ```bash
     git clone https://github.com/juliisch/RILE92.git
@@ -12,14 +12,16 @@ This repository contains the coursework for the module RILE92 SP IV-2: Reinforce
     cd RILE92
     ```
 
-2. **Install Dependencies**
+2. **Bibliotheken installieren**
 
-    Install all libraries using the `requirements.txt` file.
+    Installieren Sie die benötigten Bibliotheken über die Datei `requirements.txt`.
 
     ```bash
     pip install -r requirements.txt
     ```
 
-2. **Run the notebooks**
+    Nach der Installation der Bibliotheken ist es erforderlich, das Programm neu zu starten, damit diese wirksam werden.
 
-    Run the notebook `RILE92_DQL_JuliaSchmid.ipynb`.
+2. **Führen Sie das Notebook aus**
+
+    Führen Sie das Notebook `RILE92_DQL_JuliaSchmid.ipynb` aus.
