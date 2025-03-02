@@ -24,4 +24,4 @@ Dieses Repository enthält den Code-Teil der Studienarbeit für das Modul RILE92
 
 2. **Führen Sie das Notebook aus**
 
-    Führen Sie das Notebook `RILE92_DQL_JuliaSchmid.ipynb` aus.
+    Führen Sie das Notebook `RILE92_DQN_JuliaSchmid.ipynb` aus.
