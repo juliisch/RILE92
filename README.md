@@ -1,9 +1,9 @@
 # RILE92
-Dieses Repository enthält die Code-Teil der Studienarbeit für das Modul RILE92 SP IV-2: Reinforcement Learning.
+Dieses Repository enthält den Code-Teil der Studienarbeit für das Modul RILE92 SP IV-2: Reinforcement Learning.
 
 ### Installation
 
-1. **Klonen Sie das Repository und wechseln Sie das Verzeichnis**
+1. **Klonen Sie das Repository und wechseln Sie in das Verzeichnis**
 
     ```bash
     git clone https://github.com/juliisch/RILE92.git
